@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SchoolAppTeacher</string>
+
+    <array name="stuclass">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+        <item>ten</item></array>
+
+
+    <array name="stusec">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+
+    </array>
+</resources>
